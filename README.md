@@ -23,7 +23,7 @@ belly = 'belly'
 ex = 'ex'
 #--------------------------------✿----------------------------------------------------------------✿
 opt = int(input('Escolha o Idioma | Chose language\n' 
-             f'1 - Português | 2 Inglês : '))
+             f'1 - Português | 2 English : '))
 if (opt == 1):
     print('--------------------------------✿--------------------------------\n'
       f"                         {data_atual}\n"
